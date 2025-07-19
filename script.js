@@ -1,15 +1,15 @@
 const licenses = {
   "DK0897294CH0874": {
-    name: "MD. RAHIM UDDIN",
-    dob: "01-Jan-1990",
+    name: "AJHARUL ISLAM",
+    dob: "15 Jan 1997",
     bloodGroup: "B+",
-    father: "Abdul Karim",
-    issue: "01-Jan-2020",
-    validity: "01-Jan-2030",
+    father: "BADUL MIAH",
+    issue: "22 MAR 2023",
+    validity: "23 MAR 2028",
     licenceNo: "DK0897294CH0874",
-    authority: "BRTA, Dhaka Metro",
-    address: "Mirpur, Dhaka",
-    classes: "Light Motor Vehicle"
+    authority: "DHAKA METRO-1 BRTA",
+    address: "JATRAPUR, ASHUGANJ, BRAHMANBARIA",
+    classes: "Heavy Vehicle"
   }
 };
 
